@@ -1,0 +1,58 @@
+.nombre{
+    text-align: center;
+}
+
+.cajaPadre{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cajaPadre2{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cuadro1{
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    display: flex;
+}
+
+.cuadro2{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    border: 1px solid;
+}
+
+.cuadro3{
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    display: flex;
+}
+
+.cuadro4{
+    
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    display: flex;
+}
+
+.cuadro5{
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    display: flex;
+}
+
+.cuadro6{
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    display: flex;
+}

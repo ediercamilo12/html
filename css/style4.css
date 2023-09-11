@@ -1,0 +1,73 @@
+.title{
+    text-align: center;
+}
+
+
+
+.container{
+    margin-top: 3%;
+    display: flex;
+    width: 100%;
+    border: 2px solid;
+    text-align: justify;
+}
+
+.cuadro{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 0, 255);
+    margin: 10px;
+    border: 1px solid;
+
+}
+
+
+
+.subtitle{
+    margin: 10px;
+}
+
+.button{
+    float: right;
+    margin: 10px;
+    border: 2px solid #000000;
+    margin-top: 34px;
+ 
+}
+
+
+.container2{
+    margin-top: 3%;
+    display: flex;
+    width: 100%;
+    border: 2px solid;
+    text-align: justify;
+}
+
+.cuadro2{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(0, 255, 34);
+    margin: 10px;
+    border: 1px solid;
+
+}
+
+
+
+.subtitle2{
+    margin: 10px;
+}
+
+.button2{
+    float: left;
+    margin: 10px;
+    border: 2px solid #000000;
+    margin-top: 34px;
+ 
+}
+
+.linea{
+    margin-top: -15px;
+    border: 1px solid;
+}
