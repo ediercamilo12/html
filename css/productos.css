@@ -1,0 +1,155 @@
+
+.navbar{
+    width: auto;
+    height: auto;
+    background-color: #ffffff;
+    border: 1px solid;
+    display: flex;
+
+}
+
+
+
+.menu{
+    margin-left: -40px;
+    display: flex;
+}
+
+.navitem a, .nav-right    {
+    display: block;
+    padding: 20px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.cuadro{
+    height: 120px;
+    width: 200px;
+    border: 1px solid;
+    display: flex;
+}
+
+.cuadro2{
+    height: 100px;
+    width: 100px;
+    border: 1px solid;
+    
+}
+
+.grande2{
+    border: 1px solid;
+    height: 500px;
+    width: auto;
+}
+
+.medio{
+    width: auto;
+    height: 250px;
+    background-color: gainsboro;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    margin-top: 10px;
+    border: 1px solid;
+}
+
+.texto{
+    text-align: center;
+}
+
+.cajaPadre{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.cuadro1{
+    width: 250px;
+    height: 100px;
+    border: 1px solid;
+
+}
+
+.cuadros2{
+    width: 250px;
+    height: 100px;
+    border: 1px solid;
+
+}
+
+.cuadro3{
+    width: 250px;
+    height: 100px;
+    border: 1px solid;
+
+}
+
+.cuadro4{
+    width: 250px;
+    height: 100px;
+    border: 1px solid;
+}
+
+
+.container2{
+    margin-top: 3%;
+    display: flex;
+    width: 100%;
+    border: 2px solid;
+    text-align: justify;
+}
+
+.celda{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 0, 255);
+    margin: 10px;
+    border: 1px solid;
+
+}
+
+
+
+.subtitle{
+    margin: 10px;
+}
+
+
+
+.testimonios {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+
+}
+
+.item {
+    display: flex;
+    width: 20%;
+    height: 100px;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px 10px;
+    
+}
+
+.cuadropq{
+    height: 70px;
+    width: 70px;
+    border: 1px solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
